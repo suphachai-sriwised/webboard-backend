@@ -5,4 +5,5 @@ export class UpdatePostDto extends PartialType(CreatePostDto) {
   topic?: string;
   content?: string;
   community?: string;
+  username?: string;
 }

@@ -37,7 +37,7 @@ npm install
 ### 2. Start MongoDB with Docker
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 This starts:
